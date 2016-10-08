@@ -1,0 +1,11 @@
+{
+    "default" : "en",
+    "en": {
+       "login with": "login with",
+       "logout": "logout"
+     },
+    "nl": {
+       "login with": "aanmelden met",
+       "logout": "afmelden"
+     }
+}
